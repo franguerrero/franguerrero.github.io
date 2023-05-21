@@ -1,0 +1,6 @@
+nombrecategoria,idcategoria,baseurl
+2009,/categoriafotos/tvxNG8TQUmRzAUZLFYyz,https://franguerrero.github.io/ferialora/fotos/2009/
+2010,/categoriafotos/mmsbIQFGqQDJoxf6EJl2,https://franguerrero.github.io/ferialora/fotos/2010/
+2022,/categoriafotos/n4xFopL2mtd5rnhrCNp2,https://franguerrero.github.io/ferialora/fotos/2022/
+2023,/categoriafotos/n4xFopL2mtd5rnhrCNp2,https://franguerrero.github.io/ferialora/fotos/2023/
+revistas,/categoriafotos/eK9khffr8KriKAAbmyWq,https://franguerrero.github.io/ferialora/fotos/revistas/
